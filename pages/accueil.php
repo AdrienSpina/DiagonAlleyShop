@@ -1,0 +1,1 @@
+<h2>Article du jour</h2>
